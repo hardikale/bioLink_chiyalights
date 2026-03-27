@@ -1,0 +1,10 @@
+# Dependency folder (MUST ignore)
+node_modules/
+
+# Local Environment/OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: if you use VS Code's local settings
+.vscode/
